@@ -90,7 +90,7 @@ ADAS-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ADAS-System.git
+git clone https://github.com/sharvaeshyuvaraj-pixel/ADAS-System.git
 ```
 
 Go to the project
